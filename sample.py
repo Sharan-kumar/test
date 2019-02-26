@@ -1,2 +1,8 @@
-s = input()
-print(s[::-1])
+sharan = input()
+"""lwdiafhuaodisufyioasudfhasdf
+fasd
+fasdfkausdyfgasiudyfhasdf
+asdfasdiofasiud8ytf8uasydifasdfasdfasdf
+asdfasdhfhiasdyfhasdf
+fasdifuhasdifuhasdif"""
+print(sharan[::-1])
